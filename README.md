@@ -7,3 +7,5 @@ servicio back-end de prueba de un servicio REST usando las tablas:
 - Rol
 
 - Usuarios_Roles
+
+![](diagram.png)
